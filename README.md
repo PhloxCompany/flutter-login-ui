@@ -4,11 +4,8 @@ This repo is our repo in github , follow us ❤.
 
 ### cover
 
-
-
-## Getting Started
-
-<br><br>
+## Development Setup
+Clone the repository and run the following commands:
 
 ```
 flutter pub get
