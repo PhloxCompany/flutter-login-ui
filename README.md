@@ -7,7 +7,6 @@ This repo is our repo in github , follow us ❤.
 
 
 ![Alt text](./assets/images/phloxcompany.jpg?raw=true "Optional Title") | ![Alt text](./assets/images/ui_app.png?raw=true "Optional Title")
-
 --- | ---
 
 
