@@ -3,7 +3,7 @@
 This repo is our repo in github , follow us ❤.
 
 ### cover
-![Alt text](./assets/images/phloxcompany.jpg?raw=true "Optional Title")
+![Flutter Beautiful Login Page UI Design Cover](./assets/images/phloxcompany.jpg?raw=true "Optional Title")
 
 ## Development Setup
 Clone the repository and run the following commands:
@@ -14,9 +14,8 @@ flutter run
 ```
 ## Screenshots
 
+<img alt="Flutter Beautiful Login Page UI Design Screen shot" src="./assets/images/ui_app.png"/>
 
-![Alt text](./assets/images/ui_app.png?raw=true "Optional Title") | r
---- | ---
 
 
 <br><br>
