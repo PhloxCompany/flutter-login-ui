@@ -12,9 +12,9 @@ Clone the repository and run the following commands:
 flutter pub get
 flutter run
 ```
-## Screenshots
+## ScreenShots
 
-<img alt="Flutter Beautiful Login Page UI Design Screen shot" src="./assets/images/ui_app.png" height="200px"/>
+<img alt="Flutter Beautiful Login Page UI Design Screen shot" src="./assets/images/ui_app.png" height="512em"/>
 
 
 
