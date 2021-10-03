@@ -4,6 +4,8 @@ This repo is our repo in github , follow us ❤.
 
 ### cover
 
+![Alt text](./assets/images/phlox.png?raw=true "Optional Title")
+
 ## Development Setup
 Clone the repository and run the following commands:
 
