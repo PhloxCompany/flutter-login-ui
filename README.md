@@ -19,7 +19,7 @@ flutter run
 
 
 ![Alt text](./assets/images/ui_app.png?raw=true "Optional Title")
--- | --
+--- | ---
 
 
 <br><br>
