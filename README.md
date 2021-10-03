@@ -14,7 +14,7 @@ flutter run
 ```
 ## Screenshots
 
-<img alt="Flutter Beautiful Login Page UI Design Screen shot" src="./assets/images/ui_app.png" height="1.2em"/>
+<img alt="Flutter Beautiful Login Page UI Design Screen shot" src="./assets/images/ui_app.png" height="200px"/>
 
 
 
